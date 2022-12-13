@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <assert.h>
-#include "bms_param.hpp"
+#include "BMS_param.hpp"
 
 namespace bms
 {
